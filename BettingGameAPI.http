@@ -1,0 +1,6 @@
+@BettingGameAPI_HostAddress = http://localhost:5043
+
+GET {{BettingGameAPI_HostAddress}}/api/game
+Accept: application/json
+
+###
